@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623759571 source:c:\users\hp\desktop\covid management\main.cpp
+	<iostream>
+	"Hospital.h"
+
+1623766712 c:\users\hp\desktop\covid management\include\hospital.h
+	<bits/stdc++.h>
+	"patient.h"
+
+1623766712 source:c:\users\hp\desktop\covid management\src\hospital.cpp
+	"Hospital.h"
+	<bits/stdc++.h>
+
+1623150523 source:c:\users\hp\desktop\covid management\src\patient.cpp
+	"patient.h"
+	<bits/stdc++.h>
+
+1623150523 c:\users\hp\desktop\covid management\include\patient.h
+
+1623759571 source:c:\users\hp\desktop\daiict\algorithms\data structure lab\lab0\project\covid management\main.cpp
+	<iostream>
+	"Hospital.h"
+
+1623766712 c:\users\hp\desktop\daiict\algorithms\data structure lab\lab0\project\covid management\include\hospital.h
+	<bits/stdc++.h>
+	"patient.h"
+
+1623150523 c:\users\hp\desktop\daiict\algorithms\data structure lab\lab0\project\covid management\include\patient.h
+
+1623766712 source:c:\users\hp\desktop\daiict\algorithms\data structure lab\lab0\project\covid management\src\hospital.cpp
+	"Hospital.h"
+	<bits/stdc++.h>
+
+1623150523 source:c:\users\hp\desktop\daiict\algorithms\data structure lab\lab0\project\covid management\src\patient.cpp
+	"patient.h"
+	<bits/stdc++.h>
+
