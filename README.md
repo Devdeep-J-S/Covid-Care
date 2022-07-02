@@ -1,4 +1,5 @@
-# Covid-management
+# Covid-Care
+
 
 This project is related to the hospital resources management system, but it is the covid version.<br>
 You enter your information into this application, which directs you to a hospital in your
